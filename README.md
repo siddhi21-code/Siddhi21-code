@@ -1,5 +1,5 @@
 <h1 align="center">  ʜᴇʏ ,ɪ ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻
-</h1> ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhi21-code&label=Profile%20views&color=0e75b6&style=flat" alt="siddhi21-code" /> </p>
