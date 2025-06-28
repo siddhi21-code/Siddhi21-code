@@ -1,4 +1,4 @@
-<h1 align="center"> ɪ' ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ
+<h1 align="center"> ɪ,ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻🧑‍💻🌪️
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
