@@ -1,3 +1,4 @@
+![Uploading 1000111958.png…]()
 <h1 align="center">  ʜᴇʏ ,ɪ ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻
 </h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
