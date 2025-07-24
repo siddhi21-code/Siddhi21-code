@@ -1,4 +1,5 @@
   ![1000115625](https://github.com/user-attachments/assets/b73a5676-1338-4564-83e4-81b1346d0cb5)
+![1000122749](https://github.com/user-attachments/assets/81f003d0-ee31-4098-be08-2ee9bd6d1575)
 
 <h1 align="center">  ʜᴇʏ ,ɪ ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻
 </h1> 
