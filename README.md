@@ -3,7 +3,6 @@
 
 <h1 align="center">  ʜᴇʏ ,ɪ ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻
 </h1> 
-![1000122749](https://github.com/user-attachments/assets/e9dd5b8a-fdc6-424b-8ca4-59f9c2a5f5b6)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
