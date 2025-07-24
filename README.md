@@ -1,8 +1,9 @@
   ![1000115625](https://github.com/user-attachments/assets/b73a5676-1338-4564-83e4-81b1346d0cb5)
-![1000122749](https://github.com/user-attachments/assets/81f003d0-ee31-4098-be08-2ee9bd6d1575)
 
 <h1 align="center">  ʜᴇʏ ,ɪ ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻
 </h1> 
+![1000122749](https://github.com/user-attachments/assets/e9dd5b8a-fdc6-424b-8ca4-59f9c2a5f5b6)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhi21-code&label=Profile%20views&color=0e75b6&style=flat" alt="siddhi21-code" /> </p>
