@@ -25,7 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhi21-code&show_icons=true&locale=en&layout=compact" alt="siddhi21-code" /></p>
 
+![1000068581](https://github.com/user-attachments/assets/88876068-a697-496a-90b8-e67f57986a6b)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhi21-code&show_icons=true&locale=en" alt="siddhi21-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi21-code&" alt="siddhi21-code" /></p>
-![1000068581](https://github.com/user-attachments/assets/bfde0845-1d62-48fa-8a4f-311acda990e1)
