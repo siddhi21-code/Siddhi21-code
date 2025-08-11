@@ -25,12 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhi21-code&show_icons=true&locale=en&layout=compact" alt="siddhi21-code" /></p>
 
-![1000068581](https://github.com/user-attachments/assets/3b63023b-39e6-4d28-9fc2-0aecf63d125b)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhi21-code&show_icons=true&locale=en" alt="siddhi21-code" /></p>
 
-
+![1000068581](https://github.com/user-attachments/assets/80fe6055-efde-4398-bbb2-eaa7aa414423)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi21-code&" alt="siddhi21-code" /></p>
