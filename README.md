@@ -1,6 +1,6 @@
 ![1000122749](https://github.com/user-attachments/assets/5282b30a-0707-4115-82a1-61b3049cc2f7)
   ![1000115625](https://github.com/user-attachments/assets/b73a5676-1338-4564-83e4-81b1346d0cb5)
-![1000068581](https://github.com/user-attachments/assets/3e7371e0-8fcf-47fd-80fd-44b2593caf01)
+
 
 <h1 align="center">  ʜᴇʏ ,ɪ ᴀᴍ ꜱɪᴅᴅʜɪ ꜱʜɪʀᴋᴇ🎓💻
 </h1> 
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhi21-code&show_icons=true&locale=en" alt="siddhi21-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhi21-code&" alt="siddhi21-code" /></p>
+![1000068581](https://github.com/user-attachments/assets/bfde0845-1d62-48fa-8a4f-311acda990e1)
